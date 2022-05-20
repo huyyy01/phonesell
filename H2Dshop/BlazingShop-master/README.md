@@ -1,10 +1,3 @@
-# BlazingShop
-
-Hello and thanks for dropping by!
-
-This is the repository for the ["Blazor WebAssembly E-Commerce Series" on YouTube](https://www.youtube.com/watch?v=ITk2MTFpiA4&list=PLF1jhYUTnHo6oK14WD3D_abbluAj0aiRb&ab_channel=PatrickGod).
-
-And here's how you can run this application.
 
 ## 1. Install SQL Server & Entity Framework
 
@@ -34,7 +27,3 @@ Then you can run all the migrations of EF Core or update the database, respectiv
 And finally, you can run the app.
 
 `dotnet watch run`
-
-Happy coding!
-
-Patrick
